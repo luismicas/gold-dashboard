@@ -1,0 +1,111 @@
+{
+  "lastUpdated": "2025-10-27T01:50:48.449Z",
+  "source": "NewsAPI",
+  "events": [
+    {
+      "date": "2025-10-26",
+      "event": "Lula participa de cúpula na Malásia de olho no mercado asiático",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.metropoles.com/mundo/lula-participa-de-cupula-na-malasia-de-olho-no-mercado-asiatico"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Eli Feinzag se despide de su mano derecha Ericka Benavides: ‘Eras mi persona de mayor confianza’",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.nacion.com/el-pais/eli-feinzag-se-despide-de-su-mano-derecha-ericka/553J3BJZSRDELNUP3BDIHL5WEE/story/"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Psychologist Warns of Donald Trump’s ‘Massive Cognitive Decline’ Amid White House Claims of Good Health - NewsBreak",
+      "severity": "high",
+      "impact": "positive",
+      "url": "https://www.newsbreak.com/share/4309447416300-psychologist-warns-of-donald-trump-s-massive-cognitive-decline-amid-white-house-claims-of-good-health?s=a2&amp;share_destination_id=NTI0MjYxNDEtMTc2MTQ0MzE4NzU4MQ%3D%3D&amp;pd=03XyQvHt&amp;hl=en_US&amp;send_time=1761443187&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2225.43.0%22%2C%22languages%22%3A%22en%22%7D&amp;sep=sc_play_button_v1-v2"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Trump not 'wasting time' with Putin as Kremlin envoy visits US",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.channelnewsasia.com/world/ukraine-russia-war-peace-talks-trump-5425426"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Real-world ‘Avatar’ in Kenya: Sacred hill turns into a rare-earth battleground for US and China",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/real-world-avatar-in-kenya-sacred-hill-turns-into-a-rare-earth-battleground-for-us-and-china/articleshow/124821150.cms"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Behind the Curtain: The ever-growing AI inequality gap",
+      "severity": "high",
+      "impact": "positive",
+      "url": "https://freerepublic.com/focus/f-chat/4348653/posts"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "MLB commissioner optimistic about participation in 2028 Olympics, but hurdles remain",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.japantimes.co.jp/olympics/2025/10/26/mlb-commissioner-olympics-2028/"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "El negocio de la angula se lo llevan los traficantes asiáticos",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.abc.es/sociedad/negocio-angula-llevan-traficantes-asiaticos-20251026184949-nt.html"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Stockton Kings draft Abdur-Rahim, son of Shareef",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.espn.com/nba/story/_/id/46726749/stockton-kings-draft-jabri-abdur-rahim-son-g-league-president"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "No. 4 China official says peaceful 'reunification' with Taiwan is best path forward",
+      "severity": "high",
+      "impact": "positive",
+      "url": "https://www.japantimes.co.jp/news/2025/10/26/asia-pacific/politics/china-taiwan-reunification/"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Simone Biles retires, and USA Gymnastics crumbles: Worst showing in decades",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://www.marca.com/en/more-sports/2025/10/26/68fd79bb268e3ef6538b459d.html"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Russia-Ukraine war: List of key events, day 1,340",
+      "severity": "high",
+      "impact": "positive",
+      "url": "https://www.aljazeera.com/news/2025/10/26/russia-ukraine-war-list-of-key-events-day-1340"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "How risky is the growth in US private credit?",
+      "severity": "medium",
+      "impact": "positive",
+      "url": "https://www.digitaljournal.com/world/how-risky-is-the-growth-in-us-private-credit/article"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "How Chinese jeweller Laopu Gold has become a luxury phenomenon",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://biztoc.com/x/44dfaf27132631ef"
+    },
+    {
+      "date": "2025-10-26",
+      "event": "Trump announces new punishing tariffs on Canada",
+      "severity": "low",
+      "impact": "neutral",
+      "url": "https://biztoc.com/x/aace70e2e0aa6291"
+    }
+  ]
+}
